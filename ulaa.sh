@@ -9,7 +9,7 @@ for policy_type in managed recommended enrollment; do
 
   if [[ -d "/run/host/$policy_root/$policy_type" ]]; then
     find "/run/host/$policy_root/$policy_type" -maxdepth 1 \
-      -type f -name '*' -name '*.json' -type f \
+      -type f -name '*'\
       -exec ln -sf '{}' "$policy_root/$policy_type" \;
   fi
 done
