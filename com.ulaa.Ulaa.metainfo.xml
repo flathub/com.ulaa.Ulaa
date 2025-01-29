@@ -58,7 +58,15 @@
     </screenshot>
   </screenshots>
   <releases>
-    <release version="2.27.0" date="2024-01-15" />
+    <release version="2.27.3" date="2025-01-29">
+      <description>
+        <ul>
+          <li>Updated to Chromium Version 132.0.6834.163 with the latest security patches and performance improvements.</li>
+        </ul>
+      </description>
+    </release>
+    <release version="2.27.1" date="2025-01-22" />
+    <release version="2.27.0" date="2025-01-15" />
   </releases>
   <content_rating type="oars-1.1" />
 </component>
