@@ -65,6 +65,14 @@
         </ul>
       </description>
     </release>
+    <release version="2.28.2" date="2025-02-14">
+      <description>
+        <ul>
+          <li>Updated to Chromium Version 133.0.6943.98 with the latest security patches and performance improvements.</li>
+          <li>[Desktop] Added an option to enable/disable tabs search button.</li>
+        </ul>
+      </description>
+    </release>
     <release version="2.28.0" date="2025-02-07">
       <description>
         <ul>
