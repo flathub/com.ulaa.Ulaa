@@ -57,7 +57,14 @@
       <caption>Privacy Report</caption>
     </screenshot>
   </screenshots>
-  <releases>
+    <releases>
+      <release version="2.28.3" date="2025-02-20">
+      <description>
+        <ul>
+          <li>Updated to Chromium Version 133.0.6943.127 with the latest security patches and performance improvements.</li>
+        </ul>
+      </description>
+    </release>
     <release version="2.28.0" date="2025-02-07">
       <description>
         <ul>
