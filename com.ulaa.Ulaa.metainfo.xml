@@ -58,6 +58,13 @@
     </screenshot>
   </screenshots>
     <releases>
+      <release version="2.28.4" date="2025-02-26">
+      <description>
+        <ul>
+          <li>Updated to Chromium Version 133.0.6943.142 with the latest security patches and performance improvements.</li>
+        </ul>
+      </description>
+    </release>
       <release version="2.28.3" date="2025-02-20">
       <description>
         <ul>
