@@ -58,6 +58,16 @@
     </screenshot>
   </screenshots>
     <releases>
+      <release version="2.29.1" date="2025-03-11">
+      <description>
+        <ul>
+          <li>Updated to Chromium Version 134.0.6998.89 with the latest security patches.</li>
+          <li>[Desktop][Experimental][Enterprise] Added policy to manage Ulaa logging system.</li>
+          <li>[Desktop][Experimental][Enterprise] Enhanced Ulaa logger by incorporating more detailed log fields for improved readability and analysis.</li>
+          <li>[Desktop][Enterprise] Added URL-based ScreenCapture policy to block screenshots through extensions.</li>
+        </ul>
+      </description>
+    </release>
       <release version="2.29.0" date="2025-03-05">
       <description>
         <ul>
