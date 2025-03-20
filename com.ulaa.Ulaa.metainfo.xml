@@ -58,6 +58,14 @@
     </screenshot>
   </screenshots>
     <releases>
+      <release version="2.29.3" date="2025-03-20">
+      <description>
+        <ul>
+          <li>Updated to Chromium Version 134.0.6998.118 with the latest security patches and performance improvements.</li>
+          <li>[Desktop][Feature] Implemented a new design flow for the Welcome Tour for newly installed users.</li>
+        </ul>
+      </description>
+    </release>
       <release version="2.29.1" date="2025-03-11">
       <description>
         <ul>
