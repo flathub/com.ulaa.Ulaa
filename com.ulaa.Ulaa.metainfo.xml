@@ -58,6 +58,16 @@
     </screenshot>
   </screenshots>
     <releases>
+      <release version="2.29.4" date="2025-03-26">
+      <description>
+        <ul>
+          <li>Updated to Chromium Version 134.0.6998.178 with the latest security patches and performance improvements.</li>
+          <li>[Desktop] Enhanced access token fetching for sync.</li>
+          <li>[Desktop][UI] Added a sync indicator to the profile avatar icon.</li>
+          <li>[Desktop][Enterprise] Added a browser report to the heartbeat.</li>
+        </ul>
+      </description>
+    </release>
       <release version="2.29.3" date="2025-03-20">
       <description>
         <ul>
