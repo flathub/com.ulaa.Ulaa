@@ -58,6 +58,14 @@
     </screenshot>
   </screenshots>
     <releases>
+    <release version="2.30.0" date="2025-04-02">
+      <description>
+        <ul>
+          <li>Updated to Chromium Version 135.0.7049.53 with the latest security patches and performance improvements.</li>
+          <li>[Desktop][BugFix] Resolved high CPU usage issue.</li>
+        </ul>
+      </description>
+    </release>
       <release version="2.29.4" date="2025-03-26">
       <description>
         <ul>
