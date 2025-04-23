@@ -58,6 +58,16 @@
     </screenshot>
   </screenshots>
     <releases>
+    <release version="2.30.3" date="2025-04-23">
+      <description>
+        <ul>
+          <li>Updated to Chromium Version 135.0.7049.114 with the latest security patches and performance improvements.</li>
+          <li>[Desktop][UI] Implemented a "Skip" button in the Welcome Tour for new users, with the option to revisit it via the "ulaa://welcome" URL.</li>
+          <li>[Desktop][Experimental][Enterprise] Added extension installation events to enterprise logs.</li>
+          <li>[Desktop][BugFix] Fixed a crash occurring when launching pop-ups.</li>
+        </ul>
+      </description>
+    </release>
     <release version="2.30.2" date="2025-04-16">
       <description>
         <ul>
