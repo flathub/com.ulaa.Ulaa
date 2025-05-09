@@ -66,8 +66,7 @@
             <li>[Desktop] Added policy to restrict printing in managed browsers.</li>
             <li>[Desktop] Added policy to apply watermark while printing documents in managed browsers.</li>
             <li>[Desktop][Experimental] Initial integration of Ulaa AI Assistant with a toolbar button for quick access.</li>
-            <li>[Desktop][BugFix] Updated the "Learn more" URL on the 'HTTPS-only mode' blocking page to redirect users to the Advanced security settings support document.
-</li>
+            <li>[Desktop][BugFix] Updated the "Learn more" URL on the 'HTTPS-only mode' blocking page to redirect users to the Advanced security settings support document.</li>
           </ul>
         </description>
       </release>
