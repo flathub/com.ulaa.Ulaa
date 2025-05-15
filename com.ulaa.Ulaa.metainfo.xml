@@ -58,7 +58,15 @@
     </screenshot>
   </screenshots>
     <releases>
-    <release version="2.31.2" date="2025-05-09">
+      <release version="2.31.3" date="2025-05-15">
+        <description>
+          <ul>
+            <li>Updated to Chromium Version 136.0.7103.125 with the latest security patches and performance improvements.</li>
+            <li>[Desktop][Enterprise] Introduced an enterprise enrollment startup dialog that appears on browser launch.</li>
+          </ul>
+        </description>
+      </release>
+      <release version="2.31.2" date="2025-05-09">
         <description>
           <ul>
             <li>Updated to Chromium Version 136.0.7103.94.</li>
