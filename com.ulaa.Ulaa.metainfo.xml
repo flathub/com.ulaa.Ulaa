@@ -58,6 +58,14 @@
     </screenshot>
   </screenshots>
     <releases>
+    <release version="2.32.0" date="2025-05-28">
+        <description>
+          <ul>
+            <li>Updated to Chromium Version 137.0.7151.56 with the latest security patches and performance improvements.</li>
+            <li>[Desktop][UI] Implemented 'Security' Page in Preferences.</li>
+          </ul>
+        </description>
+      </release>
       <release version="2.31.3" date="2025-05-15">
         <description>
           <ul>
