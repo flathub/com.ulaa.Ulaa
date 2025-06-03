@@ -58,6 +58,15 @@
     </screenshot>
   </screenshots>
     <releases>
+    <release version="2.32.1" date="2025-06-03">
+        <description>
+          <ul>
+            <li>Updated to Chromium Version 137.0.7151.72 with the latest security patches and performance improvements.</li>
+            <li>[Desktop][Enterprise] Show a dialog when attempting to take screenshots through extensions under ScreenCapture policies.</li>
+            <li>[Desktop][Enterprise][BugFix] Deprecated the Rawpolicy endpoint in the browser.</li>
+          </ul>
+        </description>
+      </release>
     <release version="2.32.0" date="2025-05-28">
         <description>
           <ul>
