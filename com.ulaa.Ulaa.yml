@@ -78,7 +78,6 @@ modules:
         path: dconf-override.patch
 
   - name: zypak
-    buildsystem: autotools
     sources:
       - type: git
         url: https://github.com/refi64/zypak
@@ -87,7 +86,6 @@ modules:
         x-checker-data:
           type: git
           tag-pattern: ^v([\d.]+)$
-        submodules: true
 
   - name: ulaa
     buildsystem: simple
