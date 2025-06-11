@@ -78,7 +78,6 @@ modules:
         path: dconf-override.patch
 
   - name: zypak
-    buildsystem: autotools
     sources:
       - type: git
         url: https://github.com/refi64/zypak
@@ -87,7 +86,6 @@ modules:
         x-checker-data:
           type: git
           tag-pattern: ^v([\d.]+)$
-        submodules: true
 
   - name: ulaa
     buildsystem: simple
@@ -100,9 +98,9 @@ modules:
       - install -Dm 644 com.ulaa.Ulaa.svg /app/share/icons/hicolor/scalable/apps/com.ulaa.Ulaa.svg
     sources:
       - type: extra-data
-        url: https://ulaa.zoho.com/release/linux/stable/Ulaa-Browser-v2.32.1-amd64.deb
-        sha256: 3f5d14b3567d406a6607ed9e30da0114a5a362aca2f1adc6f3edd881deb21fbc
-        size: 144409840
+        url: https://ulaa.zoho.com/release/linux/stable/Ulaa-Browser-v2.32.3-amd64.deb
+        sha256: 50b2cce0a1d8c196b7e881284ecb13e7784d785e7dbeef6c32984d2a009ff5f1
+        size: 144402032
         filename: ulaa.deb
         x-checker-data:
           type: debian-repo
