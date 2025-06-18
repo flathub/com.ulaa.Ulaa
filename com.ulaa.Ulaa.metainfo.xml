@@ -57,6 +57,20 @@
       <caption>Privacy Report</caption>
     </screenshot>
   </screenshots>
+  <releases>
+      <release version="2.32.5" date="2025-06-18">
+        <description>
+          <ul>
+            <li>Updated to Chromium Version 137.0.7151.120 with the latest security patches and performance improvements.</li>
+            <li>[Desktop][UI] Implemented an analytical view for Screen Sense.</li>
+            <li>[Desktop][Enhancement] Disabled Screen Sense in Kids Mode.</li>
+            <li>[Desktop][Experimental][ZiaLab] Introduced AI/ML experimental feature section in the Preferences page.</li>
+            <li>[Desktop] Display the current state of a feature flag on `ulaa://flags` when set to Default.</li>
+            <li>[Desktop][BugFix] Applied throttling only for auto mode switching during main frame navigations. </li>
+            <li>[Desktop][BugFix] Removed time tracking behaviour in Incognito Mode for Screen Sense.</li>
+          </ul>
+        </description>
+      </release>
     <releases>
       <release version="2.32.3" date="2025-06-11">
         <description>
