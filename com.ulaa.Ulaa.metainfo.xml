@@ -71,8 +71,7 @@
           </ul>
         </description>
       </release>
-    <releases>
-      <release version="2.32.3" date="2025-06-11">
+    <release version="2.32.3" date="2025-06-11">
         <description>
           <ul>
             <li>Updated to Chromium Version 137.0.7151.104 with the latest security patches and performance improvements.</li>
