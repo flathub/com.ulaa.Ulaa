@@ -58,6 +58,15 @@
     </screenshot>
   </screenshots>
   <releases>
+    <release version="2.33.3" date="2025-07-16">
+      <description>
+        <ul>
+          <li>Updated with the latest security patches and performance enhancements. Chromium engine updated to 138.0.7204.158.</li>
+          <li>[Enterprise] Assigned higher priority to cloud policies over platform policies.</li>
+          <li>[UI][Adblocker] Fixed URL elision in the Adblocker popup.</li>
+        </ul>
+      </description>
+    </release>
     <release version="2.33.2" date="2025-07-01">
       <description>
         <ul>
