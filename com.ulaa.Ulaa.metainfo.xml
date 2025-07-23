@@ -58,6 +58,19 @@
     </screenshot>
   </screenshots>
   <releases>
+      <release version="2.33.4" date="2025-07-23">
+      <description>
+        <ul>
+          <li>[Desktop][UI] Resolved high CPU usage issue on the Downloads page.</li>
+          <li>[Desktop][UI] Included more size options for page zoom under the Appearance section in Preferences.</li>
+          <li>[Desktop][Enterprise] Added Extension Telemetry logs to Ulaa Logger.</li>
+          <li>[Desktop][Enterprise] Added enrollment-related info in the Preferences page.</li>
+          <li>[Desktop][Bug Fix] Resolved empty policy check for the File Upload Restriction Policy.</li>
+          <li>[Desktop][Bug Fix] Fixed Auto Mode Switching issue when a tab is restored via "Continue where you left off".</li>
+          <li>Updated with the latest security patches and performance enhancements. Chromium engine updated to 138.0.7204.169.</li>
+        </ul>
+      </description>
+    </release>
     <release version="2.33.3" date="2025-07-16">
       <description>
         <ul>
