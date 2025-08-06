@@ -58,6 +58,16 @@
     </screenshot>
   </screenshots>
   <releases>
+    <release version="2.34.0" date="2025-08-06">
+      <description>
+        <ul>
+          <li>[Desktop][UI] Active tabs now appear wider than others when many tabs are open and space is limited.</li>
+          <li>[Desktop][UI] What's New section from Ulaa DevTools has been removed.</li>
+          <li>[Desktop][BugFix] Resolved the unexpected crash that occurred after prolonged usage.</li>
+          <li>Updated with the latest security patches and performance enhancements. Chromium engine updated to 139.0.7258.76.</li>
+        </ul>
+      </description>
+    </release>
     <release version="2.33.5" date="2025-07-30">
       <description>
         <ul>
