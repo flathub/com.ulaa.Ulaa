@@ -58,6 +58,17 @@
     </screenshot>
   </screenshots>
   <releases>
+    <release version="2.34.2" date="2025-08-20">
+      <description>
+        <ul>
+          <li>[Desktop] Enhanced Safe Browsing for file downloads.</li>
+          <li>[Desktop][Experiment] Enabled the Enterprise Heartbeat feature flag by default.</li>
+          <li>[Desktop][Experimental] Introduced Productivity Suite feature in the sidebar.</li>
+          <li>[Desktop][BugFix] Resolved performance issues with Ulaa Adblocker.</li>
+          <li>Updated with the latest security patches and performance enhancements. Chromium engine updated to 139.0.7258.143.</li>
+        </ul>
+      </description>
+    </release>
     <release version="2.34.1" date="2025-08-13">
       <description>
         <ul>
