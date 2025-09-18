@@ -58,6 +58,15 @@
     </screenshot>
   </screenshots>
   <releases>
+    <release version="2.35.3" date="2025-09-18">
+      <description>
+        <ul>
+          <li>[Desktop][Enterprise] Revamped enterprise logs.</li>
+          <li>[Desktop][BugFix] Fixed an RCE vulnerability in Policy Injection by restricting the 'SetLocalTestPolicies' API.</li>
+          <li>Updated with the latest security patches and performance enhancements. Chromium engine updated to 140.0.7339.185.</li>
+        </ul>
+      </description>
+    </release>
     <release version="2.35.2" date="2025-09-10">
       <description>
         <ul>
