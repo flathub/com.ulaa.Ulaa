@@ -58,6 +58,14 @@
     </screenshot>
   </screenshots>
   <releases>
+    <release version="2.36.0" date="2025-10-01">
+      <description>
+        <ul>
+          <li>[Desktop] Enhanced Safe Browsing file download handling with a user keep/discard option.</li>
+          <li>Updated with the latest security patches and performance enhancements. Chromium engine updated to 141.0.7390.54.</li>
+        </ul>
+      </description>
+    </release>
     <release version="2.35.4" date="2025-09-24">
       <description>
         <ul>
