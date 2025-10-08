@@ -58,6 +58,14 @@
     </screenshot>
   </screenshots>
   <releases>
+    <release version="2.36.1" date="2025-10-08">
+      <description>
+        <ul>
+          <li>[Desktop][BugFix] Resolved an issue causing the Widevine component download failure.</li>
+          <li>Updated with the latest security patches and performance enhancements. Chromium engine updated to 141.0.7390.70.</li>
+        </ul>
+      </description>
+    </release>
     <release version="2.36.0" date="2025-10-01">
       <description>
         <ul>
