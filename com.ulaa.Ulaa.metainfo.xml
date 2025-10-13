@@ -58,7 +58,7 @@
     </screenshot>
   </screenshots>
   <releases>
-    <release version="2.36.2" date="2025-10-11">
+    <release version="2.36.2" date="2025-10-13">
       <description>
         <ul>
           <li>[Desktop][UI] Enhanced the Welcome Page for responsive display on all screen resolutions.</li>
