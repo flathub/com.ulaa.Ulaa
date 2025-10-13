@@ -58,6 +58,16 @@
     </screenshot>
   </screenshots>
   <releases>
+    <release version="2.36.2" date="2025-10-13">
+      <description>
+        <ul>
+          <li>[Desktop][UI] Enhanced the Welcome Page for responsive display on all screen resolutions.</li>
+          <li>[Desktop][UI] Added options on the Extensions page to enable, disable, or remove the ad blocker, along with an option on the Preferences page to load it after removal.</li>
+          <li>[Desktop][Adblocker] Decoupled the ad blocker from the browser bundle and implemented fetching and loading during browser startup.</li>
+          <li>Updated to Chromium Version 141.0.7390.77.</li>
+        </ul>
+      </description>
+    </release>
     <release version="2.36.1" date="2025-10-08">
       <description>
         <ul>
