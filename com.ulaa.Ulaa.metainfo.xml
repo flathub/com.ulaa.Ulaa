@@ -58,6 +58,16 @@
     </screenshot>
   </screenshots>
   <releases>
+  <release version="2.37.3" date="2025-11-12">
+      <description>
+        <ul>
+          <li>[Desktop][Enterprise] Added Ulaa device ID to the enrollment configuration.</li>
+          <li>[Desktop][Enterprise] Refined Enterprise Log data.</li>
+          <li>[Desktop][BugFix] Sent Enterprise Logs to enrollment-based region.</li>
+          <li>Updated with the latest security patches and performance enhancements. Chromium engine updated to 142.0.7444.163.</li>
+        </ul>
+      </description>
+    </release>
     <release version="2.37.2" date="2025-11-06">
       <description>
         <ul>
