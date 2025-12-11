@@ -58,7 +58,15 @@
     </screenshot>
   </screenshots>
   <releases>
-  <release version="2.38.0" date="2025-12-03">
+    <release version="2.38.2" date="2025-12-11">
+      <description>
+        <ul>
+          <li>[Desktop][BugFix] Fixed endless reload behavior on the About Page when Kids Mode is active.</li>
+          <li>Updated with the latest security patches and performance enhancements. Chromium engine updated to 143.0.7499.110.</li>
+        </ul>
+      </description>
+    </release>
+    <release version="2.38.0" date="2025-12-03">
     <description>
       <ul>
         <li>[Desktop][UI][Preferences] Implemented "Manage Security Keys" in the Preferences page.</li>
