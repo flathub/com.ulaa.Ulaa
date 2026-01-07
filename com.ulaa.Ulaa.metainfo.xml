@@ -58,6 +58,14 @@
     </screenshot>
   </screenshots>
   <releases>
+  <release version="2.38.4" date="2026-01-07">
+      <description>
+        <ul>
+          <li>[Desktop][Experiment] Updated the phishing detection ML model to v25.7.1 for improved accuracy.</li>
+          <li>Updated with the latest security patches and performance enhancements. Chromium engine updated to 143.0.7499.193.</li>
+        </ul>
+      </description>
+    </release>
     <release version="2.38.3" date="2025-12-17">
       <description>
         <ul>
