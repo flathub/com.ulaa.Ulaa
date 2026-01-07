@@ -99,8 +99,8 @@ modules:
     sources:
       - type: extra-data
         url: https://ulaa.zoho.com/release/linux/stable/Ulaa-Browser-v2.38.3-amd64.deb
-        sha256: 6bcdf2ceb6f72815c8a000a337cf23d7c08c5f80afde2db5c5cee33960b1ae7b
-        size: 139896840
+        sha256: 7897561d9963d6e57fe7b91f964543f96f5ff8bf7eea656914b03a3450c0bf19
+        size: 139937448
         filename: ulaa.deb
         x-checker-data:
           type: debian-repo
