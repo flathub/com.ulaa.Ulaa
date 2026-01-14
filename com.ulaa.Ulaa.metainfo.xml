@@ -58,6 +58,13 @@
     </screenshot>
   </screenshots>
   <releases>
+  <release version="2.39.0" date="2026-01-14">
+      <description>
+        <ul>
+          <li>Updated with the latest security patches and performance enhancements. Chromium engine updated to 144.0.7559.85.</li>
+        </ul>
+      </description>
+  </release>
   <release version="2.38.4" date="2026-01-07">
       <description>
         <ul>
