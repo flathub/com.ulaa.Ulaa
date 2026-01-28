@@ -58,6 +58,14 @@
     </screenshot>
   </screenshots>
   <releases>
+    <release version="2.39.2" date="2026-01-28">
+      <description>
+        <ul>
+          <li>[Desktop][BugFix] Added support for the --disable-features command-line flag.</li>
+          <li>Updated with the latest security patches and performance enhancements. Chromium engine updated to 144.0.7559.110.</li>
+        </ul>
+      </description>
+  </release>
     <release version="2.39.1" date="2026-01-21">
       <description>
         <ul>
