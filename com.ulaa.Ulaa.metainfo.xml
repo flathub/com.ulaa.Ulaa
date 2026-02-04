@@ -58,6 +58,15 @@
     </screenshot>
   </screenshots>
   <releases>
+  <release version="2.39.3" date="2026-02-04">
+      <description>
+        <ul>
+          <li>[Desktop][Enterprise][Experiment] Introduced a data masking policy for PII data.</li>
+          <li>[Desktop][Bug Fix] Fixed a crash during tab sharing when using non-English languages.</li>
+          <li>Updated with the latest security patches and performance enhancements. Chromium engine updated to 144.0.7559.133.</li>
+        </ul>
+      </description>
+  </release>
     <release version="2.39.2" date="2026-01-28">
       <description>
         <ul>
