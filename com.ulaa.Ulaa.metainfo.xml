@@ -58,6 +58,15 @@
     </screenshot>
   </screenshots>
   <releases>
+    <release version="2.40.3" date="2026-02-19">
+      <description>
+        <ul>
+          <li>[Desktop] Added support for the United Arab Emirates (UAE) region in the browser.</li>
+          <li>[Desktop][Enterprise][Experiment] Introduced Secure Access feature.</li>
+          <li>Updated with the latest security patches and performance enhancements. Chromium engine updated to 145.0.7632.109.</li>
+        </ul>
+      </description>
+    </release>
   <release version="2.40.2" date="2026-02-15">
       <description>
         <ul>
