@@ -58,6 +58,14 @@
     </screenshot>
   </screenshots>
   <releases>
+  <release version="2.40.5" date="2026-03-04">
+      <description>
+        <ul>
+          <li>[Desktop][UI] Hide the initiator URL from download items on the Downloads page.</li>
+          <li>Updated with the latest security patches and performance enhancements. Chromium engine updated to 145.0.7632.160.</li>
+        </ul>
+      </description>
+    </release>
     <release version="2.40.4" date="2026-02-24">
       <description>
         <ul>
