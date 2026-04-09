@@ -58,6 +58,14 @@
     </screenshot>
   </screenshots>
   <releases>
+  <release version="2.42.0" date="2026-04-09">
+      <description>
+        <ul>
+          <li>[Desktop][UI] Added dark mode support for themed dashboards.</li>
+          <li>Updated with the latest security patches and performance enhancements. Chromium engine updated to 147.0.7727.56</li>
+        </ul>
+      </description>
+    </release>
   <release version="2.41.5" date="2026-04-01">
       <description>
         <ul>
