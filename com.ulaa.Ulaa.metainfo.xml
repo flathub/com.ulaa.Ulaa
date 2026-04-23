@@ -58,6 +58,14 @@
     </screenshot>
   </screenshots>
   <releases>
+  <release version="2.42.3" date="2026-04-23">
+      <description>
+        <ul>
+          <li>[Desktop][Enterprise] Added enterprise logs for policy and download-related activities.</li>
+          <li>Updated with the latest security patches and performance enhancements. Chromium engine updated to 147.0.7727.117</li>
+        </ul>
+      </description>
+    </release>
   <release version="2.42.2" date="2026-04-16">
       <description>
         <ul>
