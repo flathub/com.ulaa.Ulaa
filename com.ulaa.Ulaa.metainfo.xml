@@ -58,6 +58,14 @@
     </screenshot>
   </screenshots>
   <releases>
+  <release version="2.43.0" date="2026-05-07">
+	  <description>
+		<ul>
+          <li>[Desktop][Enterprise][Experiment] Introduced Secure Access V2.</li>
+          <li>Updated with the latest security patches and performance enhancements. Chromium engine updated to 148.0.7778.120.</li>
+        </ul>
+	  </description>
+	</release>
   <release version="2.42.4" date="2026-04-29">
       <description>
         <ul>
