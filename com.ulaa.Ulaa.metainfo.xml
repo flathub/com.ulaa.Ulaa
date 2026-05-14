@@ -58,6 +58,21 @@
     </screenshot>
   </screenshots>
   <releases>
+  <release version="2.43.3" date="2026-05-13">
+	  <description>
+		<ul>
+          <li>Updated with the latest security patches and performance enhancements. Chromium engine updated to 148.0.7778.168.</li>
+        </ul>
+	  </description>
+	</release>
+  <release version="2.43.2" date="2026-05-12">
+	  <description>
+		<ul>
+          <li>[Desktop][BugFix] Fixed a crash that occurs while loading unpacked extensions.</li>
+          <li>Chromium engine updated to 148.0.7778.122.</li>
+        </ul>
+	  </description>
+	</release>
   <release version="2.43.0" date="2026-05-07">
 	  <description>
 		<ul>
