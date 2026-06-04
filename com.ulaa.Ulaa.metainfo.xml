@@ -58,6 +58,15 @@
     </screenshot>
   </screenshots>
   <releases>
+  <release version="2.44.0" date="2026-06-04">
+	  <description>
+		<ul>
+          <li>[Desktop][Enterprise] Implemented the watermark policy directly on the page.</li>
+          <li>[Desktop][BugFix] Evaluated all the rules under the block and exception lists.</li>
+          <li>Updated with the latest security patches and performance enhancements. Chromium engine updated to 149.0.7827.59.</li>
+        </ul>
+	  </description>
+	</release>
   <release version="2.43.5" date="2026-05-28">
 	  <description>
 		<ul>
