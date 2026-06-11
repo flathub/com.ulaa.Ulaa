@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <component type="desktop">
   <id>com.ulaa.Ulaa</id>
   <launchable type="desktop-id">com.ulaa.Ulaa.desktop</launchable>
@@ -58,68 +58,75 @@
     </screenshot>
   </screenshots>
   <releases>
-  <release version="2.44.1" date="2026-06-09">
-	  <description>
-		<ul>
+    <release version="2.44.2" date="2026-06-11">
+      <description>
+        <ul>
+          <li>Updated with the stability and performance enhancements. Chromium engine updated to 149.0.7827.137.</li>
+        </ul>
+      </description>
+    </release>
+    <release version="2.44.1" date="2026-06-09">
+      <description>
+        <ul>
           <li>Updated with the latest security patches and performance enhancements. Chromium engine updated to 149.0.7827.103.</li>
         </ul>
-	  </description>
-	</release>
-  <release version="2.44.0" date="2026-06-04">
-	  <description>
-		<ul>
+      </description>
+    </release>
+    <release version="2.44.0" date="2026-06-04">
+      <description>
+        <ul>
           <li>[Desktop][Enterprise] Implemented the watermark policy directly on the page.</li>
           <li>[Desktop][BugFix] Evaluated all the rules under the block and exception lists.</li>
           <li>Updated with the latest security patches and performance enhancements. Chromium engine updated to 149.0.7827.59.</li>
         </ul>
-	  </description>
-	</release>
-  <release version="2.43.5" date="2026-05-28">
-	  <description>
-		<ul>
+      </description>
+    </release>
+    <release version="2.43.5" date="2026-05-28">
+      <description>
+        <ul>
           <li>Updated with the latest security patches and performance enhancements. Chromium engine updated to 148.0.7778.217.</li>
         </ul>
-	  </description>
-	</release>  
-  <release version="2.43.4" date="2026-05-20">
-	  <description>
-		<ul>
+      </description>
+    </release>
+    <release version="2.43.4" date="2026-05-20">
+      <description>
+        <ul>
           <li>[Desktop][BugFix] Fixed color inconsistencies in Developer and Incognito modes under the Light theme.</li>
           <li>Updated with the latest security patches and performance enhancements. Chromium engine updated to 148.0.7778.179.</li>
         </ul>
-	  </description>
-	</release>
-  <release version="2.43.3" date="2026-05-13">
-	  <description>
-		<ul>
+      </description>
+    </release>
+    <release version="2.43.3" date="2026-05-13">
+      <description>
+        <ul>
           <li>Updated with the latest security patches and performance enhancements. Chromium engine updated to 148.0.7778.168.</li>
         </ul>
-	  </description>
-	</release>
-  <release version="2.43.2" date="2026-05-12">
-	  <description>
-		<ul>
+      </description>
+    </release>
+    <release version="2.43.2" date="2026-05-12">
+      <description>
+        <ul>
           <li>[Desktop][BugFix] Fixed a crash that occurs while loading unpacked extensions.</li>
           <li>Chromium engine updated to 148.0.7778.122.</li>
         </ul>
-	  </description>
-	</release>
-  <release version="2.43.0" date="2026-05-07">
-	  <description>
-		<ul>
+      </description>
+    </release>
+    <release version="2.43.0" date="2026-05-07">
+      <description>
+        <ul>
           <li>[Desktop][Enterprise][Experiment] Introduced Secure Access V2.</li>
           <li>Updated with the latest security patches and performance enhancements. Chromium engine updated to 148.0.7778.120.</li>
         </ul>
-	  </description>
-	</release>
-  <release version="2.42.4" date="2026-04-29">
+      </description>
+    </release>
+    <release version="2.42.4" date="2026-04-29">
       <description>
         <ul>
           <li>Updated with the latest security patches and performance enhancements. Chromium engine updated to 147.0.7727.137</li>
         </ul>
       </description>
     </release>
-  <release version="2.42.3" date="2026-04-23">
+    <release version="2.42.3" date="2026-04-23">
       <description>
         <ul>
           <li>[Desktop][Enterprise] Added enterprise logs for policy and download-related activities.</li>
@@ -127,7 +134,7 @@
         </ul>
       </description>
     </release>
-  <release version="2.42.2" date="2026-04-16">
+    <release version="2.42.2" date="2026-04-16">
       <description>
         <ul>
           <li>Updated with the latest security patches and performance enhancements. Chromium engine updated to 147.0.7727.102</li>
@@ -142,21 +149,21 @@
         </ul>
       </description>
     </release>
-  <release version="2.41.5" date="2026-04-01">
+    <release version="2.41.5" date="2026-04-01">
       <description>
         <ul>
           <li>Updated with the latest security patches and performance enhancements. Chromium engine updated to 146.0.7680.177.</li>
         </ul>
       </description>
     </release>
-  <release version="2.41.4" date="2026-03-24">
+    <release version="2.41.4" date="2026-03-24">
       <description>
         <ul>
           <li>Updated with the latest security patches and performance enhancements. Chromium engine updated to 146.0.7680.165.</li>
         </ul>
       </description>
     </release>
-  <release version="2.41.3" date="2026-03-19">
+    <release version="2.41.3" date="2026-03-19">
       <description>
         <ul>
           <li>Updated with the latest security patches and performance enhancements. Chromium engine updated to 146.0.7680.154.</li>
@@ -170,14 +177,14 @@
         </ul>
       </description>
     </release>
-  <release version="2.41.0" date="2026-03-12">
+    <release version="2.41.0" date="2026-03-12">
       <description>
         <ul>
           <li>Updated with the latest security patches and performance enhancements. Chromium engine updated to 146.0.7680.111.</li>
         </ul>
       </description>
     </release>
-  <release version="2.40.5" date="2026-03-04">
+    <release version="2.40.5" date="2026-03-04">
       <description>
         <ul>
           <li>[Desktop][UI] Hide the initiator URL from download items on the Downloads page.</li>
@@ -201,7 +208,7 @@
         </ul>
       </description>
     </release>
-  <release version="2.40.2" date="2026-02-15">
+    <release version="2.40.2" date="2026-02-15">
       <description>
         <ul>
           <li>Updated with the latest security patches and performance enhancements. Chromium engine updated to 145.0.7632.75.</li>
@@ -224,8 +231,8 @@
           <li>Chromium engine updated to 144.0.7559.134.</li>
         </ul>
       </description>
-  </release>
-  <release version="2.39.3" date="2026-02-04">
+    </release>
+    <release version="2.39.3" date="2026-02-04">
       <description>
         <ul>
           <li>[Desktop][Enterprise][Experiment] Introduced a data masking policy for PII data.</li>
@@ -233,7 +240,7 @@
           <li>Updated with the latest security patches and performance enhancements. Chromium engine updated to 144.0.7559.133.</li>
         </ul>
       </description>
-  </release>
+    </release>
     <release version="2.39.2" date="2026-01-28">
       <description>
         <ul>
@@ -241,22 +248,22 @@
           <li>Updated with the latest security patches and performance enhancements. Chromium engine updated to 144.0.7559.110.</li>
         </ul>
       </description>
-  </release>
+    </release>
     <release version="2.39.1" date="2026-01-21">
       <description>
         <ul>
           <li>Updated with the latest security patches and performance enhancements. Chromium engine updated to 144.0.7559.97.</li>
         </ul>
       </description>
-  </release>
+    </release>
     <release version="2.39.0" date="2026-01-14">
       <description>
         <ul>
           <li>Updated with the latest security patches and performance enhancements. Chromium engine updated to 144.0.7559.85.</li>
         </ul>
       </description>
-  </release>
-  <release version="2.38.4" date="2026-01-07">
+    </release>
+    <release version="2.38.4" date="2026-01-07">
       <description>
         <ul>
           <li>[Desktop][Experiment] Updated the phishing detection ML model to v25.7.1 for improved accuracy.</li>
@@ -285,22 +292,22 @@
       </description>
     </release>
     <release version="2.38.0" date="2025-12-03">
-    <description>
-      <ul>
-        <li>[Desktop][UI][Preferences] Implemented "Manage Security Keys" in the Preferences page.</li>
-        <li>[Linux][BugFix] Corrected the update instructions for Flatpak installation.</li>
-        <li>Updated with the latest security patches and performance enhancements. Chromium engine updated to 143.0.7499.92.</li>
-      </ul>
-    </description>
-  </release>
-  <release version="2.37.4" date="2025-11-18">
-    <description>
-      <ul>
-        <li>Updated with the latest security patches and performance enhancements. Chromium engine updated to 142.0.7444.176.</li>
-      </ul>
-    </description>
-  </release>
-  <release version="2.37.3" date="2025-11-12">
+      <description>
+        <ul>
+          <li>[Desktop][UI][Preferences] Implemented "Manage Security Keys" in the Preferences page.</li>
+          <li>[Linux][BugFix] Corrected the update instructions for Flatpak installation.</li>
+          <li>Updated with the latest security patches and performance enhancements. Chromium engine updated to 143.0.7499.92.</li>
+        </ul>
+      </description>
+    </release>
+    <release version="2.37.4" date="2025-11-18">
+      <description>
+        <ul>
+          <li>Updated with the latest security patches and performance enhancements. Chromium engine updated to 142.0.7444.176.</li>
+        </ul>
+      </description>
+    </release>
+    <release version="2.37.3" date="2025-11-12">
       <description>
         <ul>
           <li>[Desktop][Enterprise] Added Ulaa device ID to the enrollment configuration.</li>
@@ -436,7 +443,7 @@
         </ul>
       </description>
     </release>
-      <release version="2.33.4" date="2025-07-23">
+    <release version="2.33.4" date="2025-07-23">
       <description>
         <ul>
           <li>[Desktop][UI] Resolved high CPU usage issue on the Downloads page.</li>
@@ -466,85 +473,85 @@
       </description>
     </release>
     <release version="2.33.0" date="2025-06-25">
-        <description>
-          <ul>
-            <li>Updated with the latest security patches and performance enhancements. Chromium engine updated to 138.0.7204.53.</li>
-          </ul>
-        </description>
-      </release>
-      <release version="2.32.5" date="2025-06-18">
-        <description>
-          <ul>
-            <li>Updated to Chromium Version 137.0.7151.120 with the latest security patches and performance improvements.</li>
-            <li>[Desktop][UI] Implemented an analytical view for Screen Sense.</li>
-            <li>[Desktop][Enhancement] Disabled Screen Sense in Kids Mode.</li>
-            <li>[Desktop][Experimental][ZiaLab] Introduced AI/ML experimental feature section in the Preferences page.</li>
-            <li>[Desktop] Display the current state of a feature flag on `ulaa://flags` when set to Default.</li>
-            <li>[Desktop][BugFix] Applied throttling only for auto mode switching during main frame navigations. </li>
-            <li>[Desktop][BugFix] Removed time tracking behaviour in Incognito Mode for Screen Sense.</li>
-          </ul>
-        </description>
-      </release>
+      <description>
+        <ul>
+          <li>Updated with the latest security patches and performance enhancements. Chromium engine updated to 138.0.7204.53.</li>
+        </ul>
+      </description>
+    </release>
+    <release version="2.32.5" date="2025-06-18">
+      <description>
+        <ul>
+          <li>Updated to Chromium Version 137.0.7151.120 with the latest security patches and performance improvements.</li>
+          <li>[Desktop][UI] Implemented an analytical view for Screen Sense.</li>
+          <li>[Desktop][Enhancement] Disabled Screen Sense in Kids Mode.</li>
+          <li>[Desktop][Experimental][ZiaLab] Introduced AI/ML experimental feature section in the Preferences page.</li>
+          <li>[Desktop] Display the current state of a feature flag on `ulaa://flags` when set to Default.</li>
+          <li>[Desktop][BugFix] Applied throttling only for auto mode switching during main frame navigations. </li>
+          <li>[Desktop][BugFix] Removed time tracking behaviour in Incognito Mode for Screen Sense.</li>
+        </ul>
+      </description>
+    </release>
     <release version="2.32.3" date="2025-06-11">
-        <description>
-          <ul>
-            <li>Updated to Chromium Version 137.0.7151.104 with the latest security patches and performance improvements.</li>
-          </ul>
-        </description>
-      </release>
+      <description>
+        <ul>
+          <li>Updated to Chromium Version 137.0.7151.104 with the latest security patches and performance improvements.</li>
+        </ul>
+      </description>
+    </release>
     <release version="2.32.1" date="2025-06-03">
-        <description>
-          <ul>
-            <li>Updated to Chromium Version 137.0.7151.72 with the latest security patches and performance improvements.</li>
-            <li>[Desktop][Enterprise] Show a dialog when attempting to take screenshots through extensions under ScreenCapture policies.</li>
-            <li>[Desktop][Enterprise][BugFix] Deprecated the Rawpolicy endpoint in the browser.</li>
-          </ul>
-        </description>
-      </release>
+      <description>
+        <ul>
+          <li>Updated to Chromium Version 137.0.7151.72 with the latest security patches and performance improvements.</li>
+          <li>[Desktop][Enterprise] Show a dialog when attempting to take screenshots through extensions under ScreenCapture policies.</li>
+          <li>[Desktop][Enterprise][BugFix] Deprecated the Rawpolicy endpoint in the browser.</li>
+        </ul>
+      </description>
+    </release>
     <release version="2.32.0" date="2025-05-28">
-        <description>
-          <ul>
-            <li>Updated to Chromium Version 137.0.7151.56 with the latest security patches and performance improvements.</li>
-            <li>[Desktop][UI] Implemented 'Security' Page in Preferences.</li>
-          </ul>
-        </description>
-      </release>
-      <release version="2.31.3" date="2025-05-15">
-        <description>
-          <ul>
-            <li>Updated to Chromium Version 136.0.7103.125 with the latest security patches and performance improvements.</li>
-            <li>[Desktop][Enterprise] Introduced an enterprise enrollment startup dialog that appears on browser launch.</li>
-          </ul>
-        </description>
-      </release>
-      <release version="2.31.2" date="2025-05-09">
-        <description>
-          <ul>
-            <li>Updated to Chromium Version 136.0.7103.94.</li>
-            <li>[Desktop] Added policy to restrict file downloads in managed browsers.</li>
-            <li>[Desktop] Added policy to restrict printing in managed browsers.</li>
-            <li>[Desktop] Added policy to apply watermark while printing documents in managed browsers.</li>
-            <li>[Desktop][Experimental] Initial integration of Ulaa AI Assistant with a toolbar button for quick access.</li>
-            <li>[Desktop][BugFix] Updated the "Learn more" URL on the 'HTTPS-only mode' blocking page to redirect users to the Advanced security settings support document.</li>
-          </ul>
-        </description>
-      </release>
+      <description>
+        <ul>
+          <li>Updated to Chromium Version 137.0.7151.56 with the latest security patches and performance improvements.</li>
+          <li>[Desktop][UI] Implemented 'Security' Page in Preferences.</li>
+        </ul>
+      </description>
+    </release>
+    <release version="2.31.3" date="2025-05-15">
+      <description>
+        <ul>
+          <li>Updated to Chromium Version 136.0.7103.125 with the latest security patches and performance improvements.</li>
+          <li>[Desktop][Enterprise] Introduced an enterprise enrollment startup dialog that appears on browser launch.</li>
+        </ul>
+      </description>
+    </release>
+    <release version="2.31.2" date="2025-05-09">
+      <description>
+        <ul>
+          <li>Updated to Chromium Version 136.0.7103.94.</li>
+          <li>[Desktop] Added policy to restrict file downloads in managed browsers.</li>
+          <li>[Desktop] Added policy to restrict printing in managed browsers.</li>
+          <li>[Desktop] Added policy to apply watermark while printing documents in managed browsers.</li>
+          <li>[Desktop][Experimental] Initial integration of Ulaa AI Assistant with a toolbar button for quick access.</li>
+          <li>[Desktop][BugFix] Updated the "Learn more" URL on the 'HTTPS-only mode' blocking page to redirect users to the Advanced security settings support document.</li>
+        </ul>
+      </description>
+    </release>
     <release version="2.31.1" date="2025-05-07">
-        <description>
-          <ul>
-            <li>Updated to Chromium Version 136.0.7103.93 with the latest security patches and performance improvements.</li>
-            <li>[Desktop] Enabled sending crash reports to ZohoDesk from the `ulaa://crashes` internal page.</li>
-          </ul>
-        </description>
-      </release>
-      <release version="2.31.0" date="2025-04-30">
-        <description>
-          <ul>
-            <li>Updated to Chromium Version 136.0.7103.60 with the latest security patches and performance improvements.</li>
-          </ul>
-        </description>
-      </release>
-      <release version="2.30.3" date="2025-04-23">
+      <description>
+        <ul>
+          <li>Updated to Chromium Version 136.0.7103.93 with the latest security patches and performance improvements.</li>
+          <li>[Desktop] Enabled sending crash reports to ZohoDesk from the `ulaa://crashes` internal page.</li>
+        </ul>
+      </description>
+    </release>
+    <release version="2.31.0" date="2025-04-30">
+      <description>
+        <ul>
+          <li>Updated to Chromium Version 136.0.7103.60 with the latest security patches and performance improvements.</li>
+        </ul>
+      </description>
+    </release>
+    <release version="2.30.3" date="2025-04-23">
       <description>
         <ul>
           <li>Updated to Chromium Version 135.0.7049.114 with the latest security patches and performance improvements.</li>
@@ -576,7 +583,7 @@
         </ul>
       </description>
     </release>
-      <release version="2.29.4" date="2025-03-26">
+    <release version="2.29.4" date="2025-03-26">
       <description>
         <ul>
           <li>Updated to Chromium Version 134.0.6998.178 with the latest security patches and performance improvements.</li>
@@ -586,7 +593,7 @@
         </ul>
       </description>
     </release>
-      <release version="2.29.3" date="2025-03-20">
+    <release version="2.29.3" date="2025-03-20">
       <description>
         <ul>
           <li>Updated to Chromium Version 134.0.6998.118 with the latest security patches and performance improvements.</li>
@@ -594,7 +601,7 @@
         </ul>
       </description>
     </release>
-      <release version="2.29.1" date="2025-03-11">
+    <release version="2.29.1" date="2025-03-11">
       <description>
         <ul>
           <li>Updated to Chromium Version 134.0.6998.89 with the latest security patches.</li>
@@ -604,21 +611,21 @@
         </ul>
       </description>
     </release>
-      <release version="2.29.0" date="2025-03-05">
+    <release version="2.29.0" date="2025-03-05">
       <description>
         <ul>
           <li>Updated to Chromium Version 134.0.6998.45 with the latest security patches and performance improvements.</li>
         </ul>
       </description>
     </release>
-      <release version="2.28.4" date="2025-02-26">
+    <release version="2.28.4" date="2025-02-26">
       <description>
         <ul>
           <li>Updated to Chromium Version 133.0.6943.142 with the latest security patches and performance improvements.</li>
         </ul>
       </description>
     </release>
-      <release version="2.28.3" date="2025-02-20">
+    <release version="2.28.3" date="2025-02-20">
       <description>
         <ul>
           <li>Updated to Chromium Version 133.0.6943.127 with the latest security patches and performance improvements.</li>
