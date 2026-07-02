@@ -98,9 +98,9 @@ modules:
       - install -Dm 644 com.ulaa.Ulaa.svg /app/share/icons/hicolor/scalable/apps/com.ulaa.Ulaa.svg
     sources:
       - type: extra-data
-        url: https://ulaa.zoho.com/release/linux/stable/Ulaa-Browser-v2.44.6-amd64.deb
-        sha256: fb3a71aa121dc216ac742c01540a2e7d7493363a2eed3b6bdc318c1ea8b3dd72
-        size: 149417556
+        url: https://ulaa.zoho.com/release/linux/stable/Ulaa-Browser-v2.45.0-amd64.deb
+        sha256: 8be974b0cf45b1eefcc9ab02077c3ab1bc4fbea5c312fb48a5ed61949ccb7a27
+        size: 151224960
         filename: ulaa.deb
         x-checker-data:
           type: debian-repo
