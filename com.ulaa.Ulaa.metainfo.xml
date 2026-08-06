@@ -58,6 +58,14 @@
     </screenshot>
   </screenshots>
   <releases>
+    <release version="2.46.1" date="2026-08-06">
+      <description>
+        <ul>
+          <li>[Desktop][BugFix] Resolved issues in Screen Activity Recorder, Print Access and File Upload Policies.</li>
+          <li>Updated with the stability and performance enhancements. Chromium engine updated to 151.0.7922.105.</li>
+        </ul>
+      </description>
+    </release>
     <release version="2.46.0" date="2026-07-30">
       <description>
         <ul>
