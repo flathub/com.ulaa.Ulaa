@@ -58,6 +58,16 @@
     </screenshot>
   </screenshots>
   <releases>
+    <release version="2.46.4" date="2026-08-20">
+      <description>
+        <ul>
+          <li>[Desktop][BugFix] Resolved Zia search from incorrect domain under the context menu.</li>
+          <li>[Linux][Enhancement] Allow update though distribution file installation.</li>
+          <li>[Linux][BugFix] Resolved update issues.</li>
+          <li>Updated with the latest security patches and performance enhancements. Chromium engine updated to 151.0.7922.170.</li>
+        </ul>
+      </description>
+    </release>
     <release version="2.46.3" date="2026-08-12">
       <description>
         <ul>
