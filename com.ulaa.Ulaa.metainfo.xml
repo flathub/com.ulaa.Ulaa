@@ -58,6 +58,19 @@
     </screenshot>
   </screenshots>
   <releases>
+    <release version="2.47.1" date="2026-08-31">
+      <description>
+        <ul>
+          <li>[Desktop][Enterprise][Experiment] Revamped Secure Access with a new panel, automatic gateway switching, and self-enrollment features.</li>
+          <li>[Desktop][Enterprise] Added support for Browser Sign-in policy.</li>
+          <li>[Desktop][Feature] Added custom window naming feature under Tabs Manager.</li>
+          <li>[Desktop][Feature] Added “Save Sessions as Bookmarks” option in the Tabs Manager.</li>
+          <li>[Desktop][Bug Fix] Fixed an issue that caused the initial User Heartbeat request to be delayed during application startup.</li>
+          <li>[Desktop][Bug Fix][Experiment][Enterprise] Fixed an issue that caused the application to crash when processing user and device policies simultaneously.</li>
+          <li>Updated with the stability and performance enhancements. Chromium engine updated to 152.0.7977.65.</li>
+        </ul>
+      </description>
+    </release>
     <release version="2.47.0" date="2026-08-26">
       <description>
         <ul>
