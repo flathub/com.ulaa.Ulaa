@@ -58,6 +58,15 @@
     </screenshot>
   </screenshots>
   <releases>
+    <release version="2.48.0" date="2026-09-09">
+      <description>
+        <ul>
+          <li>[BugFix][Desktop][Enterprise] Fixed fail-open issues in the upload policy and resolved a startup race condition affecting download access policy enforcement.</li>
+          <li>[Desktop][Security] Zoho Sign-in flow updated to OAuth standards.</li>
+          <li>Updated with the latest security patches and performance enhancements. Chromium engine updated to 153.0.8010.37.</li>
+        </ul>
+      </description>
+    </release>
     <release version="2.47.3" date="2026-09-02">
       <description>
         <ul>
