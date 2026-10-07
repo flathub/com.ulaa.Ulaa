@@ -58,6 +58,14 @@
     </screenshot>
   </screenshots>
   <releases>
+    <release version="2.50.0" date="2026-10-07">
+      <description>
+        <ul>
+          <li>[Desktop] Upgrade the integrated Screen Capture to version 2.3.8.</li>
+          <li>Updated with the latest security patches and performance enhancements. Chromium engine updated to 155.0.8059.40.</li>
+        </ul>
+      </description>
+    </release>
     <release version="2.49.2" date="2026-10-02">
       <description>
         <ul>
