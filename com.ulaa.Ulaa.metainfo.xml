@@ -58,6 +58,16 @@
     </screenshot>
   </screenshots>
   <releases>
+    <release version="2.50.2" date="2026-10-14">
+      <description>
+        <ul>
+          <li>[Desktop][Security] Improved Smart Dark Mode security to prevent it from loading local network resources on behalf of public websites.</li>
+          <li>[Desktop][Enterprise][BugFix] Fixed download access policies that failed to enforce file-size restrictions when the file size was not declared.</li>
+          <li>[Desktop][Enterprise][BugFix] Fixed print access policies which were not enforced for content printed from embedded frames.</li>
+          <li>Updated with the latest security patches and performance enhancements. Chromium engine updated to 155.0.8059.79.</li>
+        </ul>
+      </description>
+    </release>
     <release version="2.50.0" date="2026-10-07">
       <description>
         <ul>
