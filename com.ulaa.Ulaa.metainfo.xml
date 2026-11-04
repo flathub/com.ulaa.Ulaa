@@ -58,6 +58,22 @@
     </screenshot>
   </screenshots>
   <releases>
+    <release version="2.52.0" date="2026-11-04">
+      <description>
+        <ul>
+          <li>[Desktop] Introduced the Copy as Markdown option for links and linked images.</li>
+          <li>[Desktop] Improved inactive tab color contrast in Personal Mode.</li>
+          <li>[Desktop][Feature] Added keyboard shortcuts in the Bookmarks Manager to cut, copy, paste, select all, undo, redo and delete bookmarks.</li>
+          <li>[Desktop][Enhancement] Added multi-select and drag-and-drop in the Bookmarks Manager.</li>
+          <li>[Desktop][BugFix] Fixed profile creation with an empty entry in the profile list.</li>
+          <li>[Desktop][BugFix] Fixed profile menu resizing after sign out.</li>
+          <li>[Desktop][BugFix] Fixed profile creation window closing after creating profile.</li>
+          <li>[Desktop][BugFix] Incognito mode disabled for Kids Mode.</li>
+          <li>[Linux][BugFix] Fixed welcome window size.</li>
+          <li>Updated with the latest security patches and performance enhancements. Chromium engine updated to 157.0.8103.39.</li>
+        </ul>
+      </description>
+    </release>
     <release version="2.51.2" date="2026-10-30">
       <description>
         <ul>
