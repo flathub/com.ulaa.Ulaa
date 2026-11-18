@@ -58,6 +58,16 @@
     </screenshot>
   </screenshots>
   <releases>
+    <release version="2.53.0" date="2026-11-18">
+      <description>
+        <ul>
+          <li>[Desktop][Experiment] Added opt-in browser crash reporting with support for enterprise policy management.</li>
+          <li>[Desktop][Enterprise][BugFix] Fixed an issue where the DevTools restriction policy was not enforced in embedded frames.</li>
+          <li>[Desktop][Enterprise][BugFix] Fixed an issue where watermark policies were not re-evaluated during single-page application (SPA) navigations.</li>
+          <li>Updated with the latest security patches and performance enhancements. Chromium engine updated to 158.0.8127.42.</li>
+        </ul>
+      </description>
+    </release>
     <release version="2.52.3" date="2026-11-12">
       <description>
         <ul>
